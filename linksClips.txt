@@ -1,0 +1,7 @@
+https://elvex.ugr.es/decsai/intelligent/workbook/ai/CLIPS.pdf
+https://www.cs.us.es/~jalonso/cursos/ia2-02/temas/tema-1.pdf
+https://cayetanoguerra.github.io/ia/sbr/CLIPS_I-Tutorial.pdf
+http://www.lcc.uma.es/~eva/aic/apuntes/libro-clips.pdf
+https://www.cs.upc.edu/~bejar/ia/material/laboratorio/clips/CLIPS-snippets.pdf
+http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones/practicas-1/04%20Lab2%20-%20Ejercicios%20de%20CLIPS.pdf
+https://www.monografias.com/docs114/clips-a-programacion-basada-reglas/clips-a-programacion-basada-reglas3.shtml
